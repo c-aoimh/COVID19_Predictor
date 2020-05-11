@@ -4,5 +4,5 @@ seaborn==0.8.1
 pandas
 scipy
 datetime
-IPython.display
+IPython
 ipywidgets
